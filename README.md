@@ -1,4 +1,4 @@
 # Model-interpretation
-Model Interpretation with similarity Maps of RDKIT
-Model Interpretation with LIME feature importance
-Model Interpretation with SHAP feature importance
+1. Model Interpretation with similarity Maps of RDKIT
+2. Model Interpretation with LIME feature importance
+3. Model Interpretation with SHAP feature importance
